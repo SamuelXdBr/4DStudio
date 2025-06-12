@@ -75,3 +75,7 @@ O layout se adapta automaticamente para:
 # Desenvolvedores
 - Marcelo Castilho Da Silva - RA: 425105151
 - Samuel Costa Marques - RA: 425104955
+
+# Links Importantes
+- Pitch: https://youtu.be/XFqiWzvnj_s
+- GitHub: https://github.com/SamuelXdBr/4DStudio
